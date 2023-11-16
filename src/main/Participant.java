@@ -30,7 +30,7 @@ public class Participant {
 
     @Override
     public String toString() {
-        return "main.Participant{" +
+        return "Participant{" +
                 "nom='" + nom + '\'' +
                 ", score=" + score +
                 '}';
