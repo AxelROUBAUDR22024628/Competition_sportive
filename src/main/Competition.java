@@ -35,9 +35,9 @@ public class Competition {
 
     @Override
     public String toString() {
-        return "main.Competition{" +"\n" +
+        return "Competition{" +"\n" +
                 "listeAmateurs=" + listeAmateurs + "\n" +
                 ", ensembleCompetiteurs=" + ensembleCompetiteurs +
-                '}';
+                '}' +"\n" ;
     }
 }

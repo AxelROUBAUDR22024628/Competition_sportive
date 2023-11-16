@@ -10,7 +10,7 @@ public class Amateur extends Participant{
     @Override
     public String toString() {
         return "Amateur{" +
-         "Nom = " + getNom() + '\'' +
+         "Nom = " + getNom() + '\n' +
                 ",Score" + getScore() +
                  "\n"+'}' ;
     }
